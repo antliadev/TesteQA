@@ -1,0 +1,30 @@
+Instalar Phyton
+Instala Java
+Download ChromeWebDrivre na mesma pasta teste com versão do chrome da VM
+
+CMD:
+cd c:/
+pip --version
+pip install robotframework 
+pip install rootframework-seleniumlibray
+pip install selenium
+npm install selenium-webdriver
+
+
+VsCode Plugins:
+.Net Watch Attach
+Debugger for Java
+InteliCode
+Language Support For Java(TM) by Red Hat
+Maven For Java
+Pylance
+Phyton
+Robot Framework Intelisense
+Extension Pack for Java
+Test Runner For Java
+
+OBS Code:
+Jupyter
+Jupyter Keymap
+Jupyter Notebook Render
+Jupyter Notebook Renderers
